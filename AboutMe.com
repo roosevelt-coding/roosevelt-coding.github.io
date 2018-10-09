@@ -1,4 +1,4 @@
-! DOCTYPE html>
+<! DOCTYPE html>
 <html>Hello! My name is Ashsmith Khayrul</html>
 <title>Welcome to Ashsmith Khayrul's Profile! </title>
 </head>
