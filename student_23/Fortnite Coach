@@ -1,0 +1,19 @@
+<! Doctype html>
+<html>
+ <head>
+<h1 id="111">Hello, I'm coach of Fortnite(No I'm not)</h1>
+</head>
+<title>My Website</title>
+<body>
+<h3 class="arajin">10 dollars for 1 hour</h3>
+<style>
+.arajin{
+color:red;
+margin-left:50%;
+}
+#111{
+
+}
+</style>
+</body>
+</html>
