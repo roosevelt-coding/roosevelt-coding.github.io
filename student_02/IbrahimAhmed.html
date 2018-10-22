@@ -6,7 +6,7 @@
 </head>
  <font size=5>
 <h1>Hello there!</h1>
-  <img style="padding: 0 15px; float: right;" src="https://media.giphy.com/media/2YiR2IbNj8za5j701k/giphy.gif" alt="Trulli" width="461" height="200">
+  <img style="padding: 0 15px; float: right;" src="https://media.giphy.com/media/2YiR2IbNj8za5j701k/giphy.gif" alt="Trulli" width="460" height="400">
   <p style="margin-top: 20px;"> </p>
  </font>
 <font size="10" color="green">My name is <b><i>Ibrahim</b></i>.</font>
@@ -56,7 +56,6 @@ window.onload = function(){
     document.addEventListener("webkitfullscreenchange", function(){snake.game.adjust();});
     document.addEventListener("mozfullscreenchange", function(){snake.game.adjust();});
     document.addEventListener("MSFullscreenChange", function(){snake.game.adjust();});
-
     snake.game = (function()
     {
         var canvas = document.getElementById('canvas');
@@ -197,7 +196,6 @@ window.onload = function(){
                     }
                     break;
             }
-
         }
         function feed()
         {
@@ -309,7 +307,7 @@ window.onload = function(){
     <input type="button" id="pause" value="Play" onClick="snake.game.pause(this);" accesskey="p">
     <input type="button" id="restart" value="Restart" onClick="snake.game.restart();">
     <br/><br/>
-  <input type="button" id="fullscreen" value="Play Fullscreen" onClick="snake.game.fullscreen();">
+    <input type="button" id="fullscreen" value="Play Fullscreen" onClick="snake.game.fullscreen();">
     <br/><br/>
     <div style="font-size:24px;">
     Score : 
