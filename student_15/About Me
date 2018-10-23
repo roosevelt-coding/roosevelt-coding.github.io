@@ -1,0 +1,28 @@
+<!  DOCTYPE  html>
+<html>
+
+<title>Henry Guske/About me</title>
+
+<head><h2>About Me<h2></head>
+<body>
+You will soon learn that pineapple on pizza is the best pizza. If you get the chance don't read Hajimes website because he does't like pineapple on pizza (this could scar you forever).
+
+<p>
+This is my favorite video <a href= "http://www.youtube.com/watch?v=HCckoploKxg"> Hope you like pineapple on pizza </a>
+</p>
+<h3>My favorite foods:</h3>
+<ol>
+<li>Pineapple on Pizza</li>
+<li>Red Meat</li>
+<li>Pineapple on Pizza</li>
+<li>Pineapple on Pizza</li>
+<img src="https://img.buzzfeed.com/buzzfeed-static/static/2016-12/14/13/asset/buzzfeed-prod-fastlane01/sub-buzz-24232-1481739559-7.jpg">
+</ol>
+<h3>My favorite video games of all time:</h3>
+<ul>
+<li>Fortnite</li>
+<li>Clash Royale</li>
+<li>Minecraft</li>
+</ul>
+<body>
+</html>
