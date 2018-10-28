@@ -7,8 +7,8 @@
  <font size=5>
 <h1>Hello there!</h1>
  <div id="img">
-    <IMG src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/source.gif" width=400 height=300 align=right border=10px>
-    <IMG src="https://media.giphy.com/media/2YiR2IbNj8za5j701k/giphy.gif" width=400 height=300 align=right border=10px>
+    <IMG src="https://media.giphy.com/media/2YiR2IbNj8za5j701k/giphy.gif" width=300 height=300 align=right border=10px>
+    <IMG src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/source.gif" width=300 height=300 align=right border=10px>  
 </div>
  </font>
 <font size="10" color="green">My name is <b><i>Ibrahim</b></i>.</font>
@@ -88,7 +88,7 @@ window.onload = function(){
             }
             else
             {
-                canvas.width=960;
+                canvas.width=1100;
                 canvas.height=500;
                 control.style.display='inline';
             }
@@ -303,7 +303,7 @@ window.onload = function(){
 </script>
 </head>
 <body>
-<canvas width="960" height="500" id="canvas" style="border:1px solid #333;" onclick="snake.game.begin();">
+<canvas width="1100" height="500" id="canvas" style="border:1px solid #333;" onclick="snake.game.begin();">
 </canvas>
 <div id="controls" style="float:bottom; text-align:center;">
     <input type="button" id="pause" value="Play" onClick="snake.game.pause(this);" accesskey="p">
