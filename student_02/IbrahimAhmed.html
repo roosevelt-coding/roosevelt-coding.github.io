@@ -3,26 +3,28 @@
 <head>
 <title> Ibrahim Ahmed </title>
  <font color=black>
+<div>
+<IMG class="two" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/source.gif" width=400 height=325 align=right border=10px>
+</div>
 </head>
  <font size=5>
  <h1>Hello there!</h1>
-  <div>
-<IMG class="one" src="https://media.giphy.com/media/2YiR2IbNj8za5j701k/giphy.gif" width=300 height=300 align=right border=10px>
-</div>
-<div>
-<IMG class="two" src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/source.gif" width=300 height=300 align=right border=10px>
-</div>
  </font>
 <font size="10" color="green">My name is <b><i>Ibrahim</b></i>.</font>
  <font color=black>
 <body>
+<font size=5>
+<br>
 <h2>This is my <b><i>first</b></i> website</h2>
  <h3> Thanks for visiting my website!</h3>
  </font>
   <font size=5> Check out: </font>
- <br> <ul><font size=4><i><u><a href="http:/thisisnotavirus.com"> Don't worry, this is not a virus.</a></u></i> It is a cool website.</font>
- <p><font size=4><i><u><a href="http://www.coolmathgames.com">Another very cool website (not a virus)</a></u></i> that you should visit right here. In this website, you can do many things and have fun. You deserve it because you visited my website.</font></p>
-  <font size=4> Also try out my snake game below </font> </ul>
+ <br> <ul><font size=5><i><u><a href="http:/thisisnotavirus.com"> Don't worry, this is not a virus.</a></u></i> It is a cool website.</font>
+<div>
+<IMG class="one" src="https://media.giphy.com/media/2YiR2IbNj8za5j701k/giphy.gif" width=400 height=325 align=right border=10px>
+</div>
+ <p><font size=5><i><u><a href="http://www.coolmathgames.com">Another very cool website (not a virus)</a></u></i> that you should visit right here. In this website, you can do many things and have fun. You deserve it because you visited my website.</font></p>
+  <font size=5> Also try out my snake game below </font> </ul>
   </body>
  <style>
 body
@@ -273,9 +275,9 @@ window.onload = function(){
             ctx.fillRect(0,0,canvas.width,canvas.height);
             ctx.fillStyle='#ffffff';
             ctx.font='40px helvatica';
-            ctx.fillText('Ibrahim',415,140);
+            ctx.fillText('Ibrahim',430,140);
             ctx.font='20px san-serif';
-            ctx.fillText('presents',445,190);
+            ctx.fillText('presents',460,190);
             ctx.font='italic 60px san-serif';
             ctx.fillText('The Snake Game',300,280);
             ctx.fillText('Click to Play',330,400);
@@ -286,10 +288,6 @@ window.onload = function(){
                 ctx.fillRect(410,330,10,10);
             }
             img.src ='snake.png';
-        }
-        function fullscreen()
-        {
-            launchFullscreen(canvas);
         }
         return {
             pause: pause,
@@ -304,7 +302,7 @@ window.onload = function(){
 }
 </script>
 </head>
-<body>
+<h5>
 <canvas width="1000" height="500" id="canvas" style="border:1px solid #333;" onclick="snake.game.begin();">
 </canvas>
 <div id="controls" style="float:bottom; text-align:center;">
@@ -316,6 +314,7 @@ window.onload = function(){
     <div style="font-size:24px;">
     Score : 
     <span id="scoreboard">0</span>
+</h5>
     </div>
 </div>
  </font>
