@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Thangiving The best day ever
+My Website
+</title>
+<style type="text/css">
+body{
+	border-style: dashed;
+	border-width: medium;
+	border-color: black;
+	background-image: url("https://s.hswstatic.com/gif/thanksgiving-orig.jpg")
+}
+</style>
+</head>
+<body>
+I love Thanksgiving
+
+<p>
+This is my favorite video
+<a href="https://www.youtube.com/watch?v=nd1rM3CsoN0">My Favorite Video!</a>
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/15/16/turkey-tail.jpg?w968h681"><br>Favorite food
+<ul>
+	<li>turkey</li>
+	<li>Thanksgiving</li>
+</ul><br>
+Favorite food
+<ol>
+	<li>mashed potatoes</li>
+	<li>Apple pie</li>
+</ol><br>
+
+
+
+</body>
+</html> 
