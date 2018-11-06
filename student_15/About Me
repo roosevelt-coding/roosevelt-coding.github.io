@@ -1,9 +1,19 @@
 <!  DOCTYPE  html>
 <html>
+<head>
+<title>Henry Guske/About me
+</title>
+<style type="text/css">
+body{
+border-style: dashed;
+border-width: medium;
+border-color: red;
+background-color: yellow;
+}
+</style>
 
-<title>Henry Guske/About me</title>
-
-<head><h2>About Me<h2></head>
+<h2>About Me<h2
+</head>
 <body>
 You will soon learn that pineapple on pizza is the best pizza. If you get the chance don't read Hajimes website because he does't like pineapple on pizza (this could scar you forever).
 
