@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> What you want to name your website
+My Website
+</title>
+<style type="text/css">
+body{
+	border-style: dashed;
+	border-width: medium;
+	border-color: red;
+	background-image: url("https://images.theconversation.com/files/180401/original/file-20170731-22175-67v3q2.jpg?ixlib=rb-1.1.0&rect=0%2C589%2C5472%2C2654&q=45&auto=format&w=1356&h=668&fit=crop")
+}
+</style>
+</head>
+<body>
+I love food
+
+<p>
+This is my favorite video
+<a href="https://www.youtube.com/watch?v=6wj8881_G-M">My Favorite Video!</a>
+<img src="https://www.drdavidludwig.com/wp-content/uploads/2017/01/1-RIS_6IbCLYv1X3bzYW1lmA.jpeg"><br>Favorite food
+<ul>
+	<li>Food</li>
+	<li>Games</li>
+</ul><br>
+Favorite food
+<ol>
+	<li>Pizza</li>
+	<li>steak</li>
+</ol><br>
+
+
+
+</body>
+</html> 
