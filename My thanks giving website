@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Thois thanks giving is gonna be lit
+</title>
+<style type="text/css"/>
+body{
+color: red;
+}
+#transition{
+	width:150px;
+	height: 50px;
+	background: black;
+	transition: height 2s;
+</style>
+</head>
+<body>
+<h1>THNAKS GIVING </h1>
+<p>
+This is my favorite video caus its littttt
+<a href="https://youtu.be/FZUcpVmEHuk> Youtube! </a>
+<a href="thanksgiving.html">Thanksgiving Page!</a>
+<img src="">http://benjaminkanarekblog.com/wp-content/uploads/2014/11/thanksgiving-day-2014.png<br>
