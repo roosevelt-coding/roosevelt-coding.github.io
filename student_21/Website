@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Me
+My Website
+</title>
+<style type="text/css">
+body{
+color: red;
+}
+#transition{
+	width:150px;
+	height: 50px;
+	background: teal;
+	transition: height 2s;
+}
+#transition:hover{
+	height: 300px;
+}
+</style>
+</head>
+<body>
+<h1> Wassup </h1>
+My name is Yazen
+<p>
+This is my favorite video
+<a href="https://www.youtube.com/watch?v=ce-Bl3eMXFk"> Youtube! </a>
+
+<a href="thanksgiving.html">Thanksgiving</a>
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia-downloadyouthministry.scdn5.secure.raxcdn.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F573x322%2F17f82f742ffe127f42dca9de82fb58b1%2Ff%2Fo%2Fforknifepreview00.jpeg&imgrefurl=https%3A%2F%2Fwww.downloadyouthministry.com%2Fforknife-youth-group-game&docid=lyA10ozhP68QvM&tbnid=IJTB1MOizSbuxM%3A&vet=10ahUKEwj92KX7ytLeAhWHwFQKHaGhB2QQMwhGKAEwAQ..i&w=572&h=322&safe=strict&bih=969&biw=1920&q=forknife&ved=0ahUKEwj92KX7ytLeAhWHwFQKHaGhB2QQMwhGKAEwAQ&iact=mrc&uact=8"><br>
+Favorite Foods
+<ul>
+	<li>Mediterrian Chicken</li>
+	<li>Water</li>
+</ul><br>
+Favorite Games
+<ol>
+	<li>Fortnite</li>
+	<li>Dubs</li>
+</ol>
+
+</p>
+
+<marquee> What u want </marquee>
+
+<div id="transition"> Transition! </div>
+
+</body>
+</html>
