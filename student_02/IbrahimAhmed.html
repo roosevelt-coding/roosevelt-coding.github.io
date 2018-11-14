@@ -19,6 +19,26 @@
 	background: green;
 	width: 450px;
 	height: 450px;
+	div:after {
+    content: "New";
+    opacity: 0;
+}
+div:before {
+    content: "Old";
+    opacity: 1;
+}
+
+div:after, div:before {
+    transition: opacity 0.5s linear;
+}
+
+.wrap:hover:before {
+    opacity: 0;
+}
+.wrap:hover:after {
+    opacity: 1;
+}
+}
 }
     </style>
     </head>
