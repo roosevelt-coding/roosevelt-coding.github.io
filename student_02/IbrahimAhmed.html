@@ -9,37 +9,46 @@
 	border-width: 20px;
 	border-color: green;
 }
-#transition{
-	width:270px;
+.my_div {
+  background-color: red;
+  	width:270px;
 	height: 270px;
-	background: red;
-	transition: width 2s;
+  transition: all 500ms ease-in-out;
 }
-#transition:hover{
-	background: green;
-	width: 450px;
+.my_div:hover {
+  background-color: green;
+  	width: 450px;
 	height: 450px;
-	    }
-	div:after {
-    content: "New";
-    opacity: 0;
 }
-div:before {
-    content: "Old";
-    opacity: 1;
+h1 {
+  overflow: hidden;
 }
-
-div:after, div:before {
-    transition: opacity 0.5s linear;
+.old-text,
+.new-text {
+  display: block;
+  overflow: hidden;
+  transition: all 500ms ease-in-out;
 }
-
-.wrap:hover:before {
-    opacity: 0;
+.old-text {
+  height: auto;
+  opacity: 1;
+  width: auto;
 }
-.wrap:hover:after {
-    opacity: 1;
+.new-text {
+  color: #fff;
+  height: 0;
+  opacity: 0;
+  width: 0;
 }
+.my_div:hover .old-text {
+  height: 0px;
+  opacity: 0;
+  width: 0px;
 }
+.my_div:hover .new-text {
+  height: auto;
+  opacity: 1;
+  width: auto;
 }
     </style>
     </head>
@@ -53,7 +62,7 @@ div:after, div:before {
  <font color=black>
 <body>
 <font size=5>
-	<div class="wrap">
+	<div id="transition">
 </div>
 	<marquee><h2>This is my <b><i>first</b></i> website</h2></marquee>
 	<h3>Thanksgiving is coming up, so <a href="https://roosevelt-coding.github.io/student_02/IbrahimThanksgiving.html"> Happy Thanksgiving! </a>
