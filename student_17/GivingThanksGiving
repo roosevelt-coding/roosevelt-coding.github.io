@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Giving Thanks Giving</title>
+<title>Giving Thanks Giving
+</title>
 <style type="text/css">
 body{
 	color: blue;
@@ -9,6 +10,16 @@ body{
 	font-family: Verdana, sans-serif;
 	font-weight: bolder;
 	font-style: italic;
+#transition{
+	width:150px;
+	height: 50px;
+	background: teal;
+	transition: height 2s;
+}
+#transition:hover{
+	height: 300px;
+}
+</style>
 </head>
 <body>
 Yo reeeeee,<br> I am ready to give thanks are you?<br>Sike! Im killing all the turkeys cuz they Tpose on my dead grave.<br> also this is my normal website because we should always be giving thanks to other fart faces
