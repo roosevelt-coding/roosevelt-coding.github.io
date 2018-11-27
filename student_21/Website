@@ -7,6 +7,10 @@ My Website
 <style type="text/css">
 body{
 color: red;
+	font-size: 26px;
+	font-family: Verdana, sans-serif;
+	font-weight: bolder;
+	font-style: italic;
 }
 #transition{
 	width:150px;
