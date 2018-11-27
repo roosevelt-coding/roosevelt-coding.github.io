@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> What you want to name your website
+My Website
+</title>
+<style type="text/css">
+body{
+	color: red;
+	font-size: 48px;
+	font-family: Verdana, sans-serif;
+	font-weight: bolder;
+	font-style: italic;
+}
+h1{
+	color: green;
+	font-family: Georgia, sans-serif;
+}
+#transition{
+	width:150px;
+	height: 50px;
+	background: teal;
+	transition: height 2s;
+}
+#transition:hover{
+	height: 300px;
+}
+</style>
+</head>
+<body>
+<h1> This is my header! </h1>
+Information you will put in the body of the website
+<p>
+This is my favorite video
+<a href=""> CHECK OUT THESE FONTS! </a>
+
+<a href="thanksgiving.html">Thanksgiving Page!</a>
+
+<img src="https://s.abcnews.com/images/Lifestyle/puppy-ht-3-er-170907_4x3_992.jpg"><br>
+Favorite Foods
+<ul>
+	<li>Pizza</li>
+	<li>Ice Cream</li>
+</ul><br>
+Favorite Games
+<ol>
+	<li>Fortnite</li>
+	<li>Fifa 19</li>
+</ol>
+
+</p>
+
+<marquee> hi there </marquee>
+
+<div id="transition"> Transition! </div>
+
+</body>
+</html>
