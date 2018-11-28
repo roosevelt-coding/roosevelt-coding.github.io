@@ -1,0 +1,42 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title> Thanksgiving</title>
+#transition{
+width: 150px;
+height: 50px;
+background: orange;
+transition: height 1s;
+}
+#transition:hover {
+height 300px
+}
+<style type="text/css">
+body{
+border-style: dashed;
+border-width: medium;
+border-color: orange;
+background-color: red;
+}
+</style>
+
+<h2>Thanksgiving<h2
+</head>
+<body>
+Thanksgiving for me has alot of traditions and food. Such as:
+<marquee> Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza, Pineapple on Pizza</marquee>
+
+<h3>My favorite foods during thanksgiving:</h3>
+<ol>
+<li>Pineapple on Pizza</li>
+<li>Turkey</li>
+<li>Creamed Corn</li>
+<li>Mashed Potatoes with Gravy</li>
+<img src="">
+</ol>
+<h3>Traditions:</h3>
+<ul>
+<li>Same Food every year</li>
+<li>Watching a new Movie</li>
+<li>Traveling</li>
+</ul>Thanksgiving
