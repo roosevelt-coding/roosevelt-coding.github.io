@@ -9,6 +9,7 @@ border-style: dashed;
 border-width: medium;
 border-color: red;
 background-color: yellow;
+font-size: 20px;
 }
 </style>
 
@@ -19,6 +20,8 @@ You will soon learn that pineapple on pizza is the best pizza. If you get the ch
 
 <p>
 This is my favorite video <a href= "http://www.youtube.com/watch?v=HCckoploKxg"> Hope you like pineapple on pizza </a>
+
+This is my Thanksgiving <a href= "file:///C:/Users/HGUS8534/Desktop/thanksgiving.html"> Website. </a
 </p>
 <h3>My favorite foods:</h3>
 <ol>
