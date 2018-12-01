@@ -14,8 +14,8 @@
 <p>So I've been to one thanksgiving party, even though I'm still scared of eating turkey, because I've never eaten a turkey.</p>
 <h2>Thanksgiving Food</h2>
 h2{
-     color:brown;
-}
+     color: brown;
+     }
 <ol>Beef</ol>
 <ol>Chicken</ol>
 <ol>Egg</ol> 
