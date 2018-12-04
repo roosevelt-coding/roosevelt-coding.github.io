@@ -15,7 +15,7 @@
 <h2>Thanksgiving Food</h2>
 h2{
      color: brown;
-     }
+}
 <ol>Beef</ol>
 <ol>Chicken</ol>
 <ol>Egg</ol> 
