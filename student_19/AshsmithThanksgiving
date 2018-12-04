@@ -12,11 +12,10 @@
 <p>My Favorite Thanksgiving Refugee Video>
 <a href="https://www.bing.com/videos/search?q=refugee+thanksgiving&&view=detail&mid=CBFBB50F7E5323748ABCCBFBB50F7E5323748ABC&&FORM=VRDGAR">Refugee Happy Video</a>
 <p>So I've been to one thanksgiving party, even though I'm still scared of eating turkey, because I've never eaten a turkey.</p>
+h1{
+    color: brown;
+}
 <h2>Thanksgiving Food</h2>
-}
-h2{
-     color: brown;
-}
 <ol>Beef</ol>
 <ol>Chicken</ol>
 <ol>Egg</ol> 
