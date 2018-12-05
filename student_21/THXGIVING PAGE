@@ -1,0 +1,59 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title> BOIIIIIIII
+My Website
+</title>
+<style type="text/css">
+body{
+	color:orange;
+	font-size: 21px;
+	font-family: Verdana, sans-serif;
+	font-weight: bolder;
+	font-style: sans-serif;
+}
+h1{
+	color: maroon;
+	font-family: Georgia, sans-serif;
+}
+#transition{
+	width:150px;
+	height: 50px;
+	background: teal;
+	transition: height 2s;
+}
+#transition:hover{
+	height: 150px;
+}
+</style>
+</head>
+<body>
+<h1> THXGiving Page </h1>
+13 yr old boii
+<p>
+
+
+<a href="thanksgiving.html">Thanksgiving boiiiiiii</a>
+
+<img src=""><br>
+Favorite Foods
+<ul>
+	<li>Khashlama</li>
+	<li>Khorovatz</li>
+        <li>Dolma</li>
+</ul><br>
+Favorite Games
+<ol>
+	<li>NFS Payback</li>
+	<li>NFS Rivals</li>
+	<li>FORTNITE, of Course</li>
+</ol>
+
+</p>
+
+<marquee>Happy THXGIVING </marquee>
+
+<div id="transition"> IDK what to put here </div>
+
+</body>
+</html>
