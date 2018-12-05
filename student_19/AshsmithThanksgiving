@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <title> My Thanksgiving Website </title>
+<head>
 <h1> My Thanksgiving Website </h1>
 <marquee> Thank You for coming to my website </marquee>
 <style type="text/css">
