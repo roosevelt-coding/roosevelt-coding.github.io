@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<title> My Thanksgiving Website </title>
+<html>
 <head>
-<h1> My Thanksgiving Website </h1>
-<marquee> Thank You for coming to my website </marquee>
+<title> My Thanksgiving Website </title>
 <style type="text/css">
 h1{
    color:brown;
@@ -11,8 +10,10 @@ h3{
    color: brown;
 }
 </style>
-
-
+</head>
+<body>
+<h1> My Thanksgiving Website </h1>
+<marquee> Thank You for coming to my website </marquee>
 <p> So this website is going to talk about what I usally do at Thanksigiving usally, go Black Friday shopping, or we will go to some party.</p>
 <h2> What we usally buy at Black Friday</h2>
 <ul>clothes</ul>
@@ -29,4 +30,6 @@ h3{
 <ol>Egg</ol> 
 <img src="https://3.bp.blogspot.com/-ehG-SRMbFzQ/V-oTzNbMGqI/AAAAAAAAA8U/i1XeTKr1z-4YzXb3fWUuzEWEDwl7ZZu_QCLcB/s1600/thanksgiving%2Bday%2Bfood%2Bimagesss_pictures_photos_menu_items_recipe_all%2Bitems.jpg
 ">
+</body>
 
+</html>
