@@ -2,6 +2,13 @@
 <title> My Thanksgiving Website </title>
 <head> My Thanksgiving Website </head>
 <marquee> Thank You for coming to my website </marquee>
+<style type="text/css">
+h2{
+   color: brown;
+}
+</style>
+
+
 <p> So this website is going to talk about what I usally do at Thanksigiving usally, go Black Friday shopping, or we will go to some party.</p>
 <h1> What we usally buy at Black Friday</h2>
 <ul>clothes</ul>
@@ -12,9 +19,6 @@
 <p>My Favorite Thanksgiving Refugee Video>
 <a href="https://www.bing.com/videos/search?q=refugee+thanksgiving&&view=detail&mid=CBFBB50F7E5323748ABCCBFBB50F7E5323748ABC&&FORM=VRDGAR">Refugee Happy Video</a>
 <p>So I've been to one thanksgiving party, even though I'm still scared of eating turkey, because I've never eaten a turkey.</p>
-h2{
-    color: brown;
-}
 <h2>Thanksgiving Food</h2>
 <ol>Beef</ol>
 <ol>Chicken</ol>
