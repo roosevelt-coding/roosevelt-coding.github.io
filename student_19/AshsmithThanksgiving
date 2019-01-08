@@ -4,10 +4,10 @@
 <title> My Thanksgiving Website </title>
 <style type="text/css">
 h1{
-   color:brown;
+   color:blue;
 }
 h3{
-   color: brown;
+   color: blue;
 }
 </style>
 </head>
