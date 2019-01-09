@@ -1,0 +1,23 @@
+<html>
+<head>
+</head>
+<body>
+<header>
+  <a href = "/">
+    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz6Jj9vSrXy5rj7tN6sCByVOp88qSogogexHA_K82V2QttTgJZ"
+  </a>
+  <h1> The Chungus Club </h1>
+</header>
+<nav>
+  <ul>
+    <li><a href = "index.html"> Home </a></li>
+    <li><a href = "about.html"> About </a></li>
+    <li><a href = "gallery.html> Gallery </a></li>
+    <li><a href = "contact.html> Contact Us </a></li>
+  </ul>
+</nav>
+<footer>
+Created by Big Chungus
+</footer>
+</body>
+</html>
