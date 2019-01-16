@@ -1,0 +1,24 @@
+<html>
+<head>
+  <link rel= "Styleheet" type "txt/css" href= "mystyle.css">
+</head>
+<body>
+<header>
+  <a href = "/">
+    <img src = "https://img.buzzfeed.com/buzzfeed-static/static/2016-12/14/13/asset/buzzfeed-prod-fastlane01/sub-buzz-24232-1481739559-7.jpg">
+  </a>
+  <h1> Your Best Dream </h1>
+</header>
+<nav>
+  <ul>
+    <li><a href = "index.html"> Home </a></li>
+    <li><a href = "Gallery"> Gallery </a></li>
+    <li><a href = "About Me"> About Us </a></li>
+    <li><a href = Contact Us"> Contact Us </a></li>
+  </ul>
+</nav>
+<footer>
+This was creatd by Hank.inc a Pineapple on Pizza Company
+</footer>
+</body>
+</html>
