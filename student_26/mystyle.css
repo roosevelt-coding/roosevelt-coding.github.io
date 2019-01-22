@@ -4,16 +4,16 @@
 }
 
 .header img{
- width:100px;
- height:100px;
- float:left;
+ width:150px;
+ height:150px;
+ float:middle;
 }
 
 .header h1{
- font-family:arial;
+ font-family:sans;
  float:left;
- margin-left:10px;
- width:640px;
+ margin-left:15px;
+ width:960px;
 }
 
 .nav ul{
@@ -23,20 +23,20 @@
 .nav li{
  list-style-type:none;
  display:inline-block;
- padding-left:5px;
+ padding-left:7.5px;
  
 }
 
 .products li{
- width:200px;
- min-height:200px;
- border:1px solid black;
- padding: 5px;
+ width:300px;
+ min-height:300px;
+ border:1px solid green;
+ padding:7.5px;
  list-style:none;
  display: inline-block;
- margin:5px;
+ margin:7.5px;
  vertical-align:top;
 }
 .products img{
- width:190px;
+ width:285px;
 }
