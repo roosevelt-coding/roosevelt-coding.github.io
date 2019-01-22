@@ -10,7 +10,7 @@
 }
 
 .header h1{
- font-family:arial;
+ font-family:Comic Sans MS;
  float:left;
  margin-left:11px;
  width:630px;
@@ -30,7 +30,7 @@
 .products li{
  width:199px;
  min-height:199px;
- border:1px solid black;
+ border:1px dotted blue;
  padding: 10px;
  list-style:none;
  display: inline-block;
