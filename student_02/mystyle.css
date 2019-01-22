@@ -9,12 +9,7 @@
  float:left;
 }
 
-.header h1{
- font-family:"https://fonts.googleapis.com/css?family=Architects Daughter";
- float:left;
- margin-left:15px;
- width:640px;
-}
+.header h1 { font-family: "Architects Daughter"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
 
 .nav ul{
  clear: both;
