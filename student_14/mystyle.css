@@ -1,25 +1,42 @@
-<html>
-<head>
-  <link rel = "stylesheet" type="text/css" href= "mystyle.css">
-</head>
-<body>
-<header>
-  <a href = "/">
-   <img src = "https://images-na.ssl-images-amazon.com/images/I/91oJ29HKPtL._SL1500_.jpg"
-  </a>
-  <h1> Welcome... I guess... </h1>
-</header>
-<nav>
-  <ul>
-    <li><a href = "index.html"> Home </a></li>
-    <li><a href = "about.html"> About Us </a></li>
-    <li><a href = "gallery.html"> Gallery </a></li>
-    <li><a href = "contact.html"> Contact Us </a></li>
-  </ul>
-</nav>
-<footer>
-Created by Hajime Inc. 
-</footer>
-</body>
-</html>
+.header{
+ 
+}
+
+.header img{
+ width:100000px;
+ height:1000000px;
+ float:left;
+}
+
+.header h1{
+ font-family:arial;
+ float:left;
+ margin-left:10000px;
+ width:640000px;
+}
+
+.nav ul{
+ clear: both;
+}
+
+.nav li{
+ list-style-type:none;
+ display:inline-block;
+ padding-left:5000px;
+ 
+}
+
+.products li{
+ width:200000px;
+ min-height:200000px;
+ border:1000px solid black;
+ padding: 5000px;
+ list-style:none;
+ display: inline-block;
+ margin:5000px;
+ vertical-align:top;
+}
+.products img{
+ width:190000px;
+}
       
