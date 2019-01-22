@@ -4,7 +4,7 @@
 }
 
 .header img{
- width:100px;
+ width:90px;
  height:100px;
  float:left;
 }
@@ -12,7 +12,7 @@
 .header h1{
  font-family:arial;
  float:left;
- margin-left:10px;
+ margin-left:15px;
  width:640px;
 }
 
