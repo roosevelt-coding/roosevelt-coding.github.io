@@ -4,16 +4,16 @@
 }
 
 .header img{
- width:100px;
- height:100px;
+ width:105px;
+ height:120px;
  float:left;
 }
 
 .header h1{
  font-family:arial;
  float:left;
- margin-left:10px;
- width:640px;
+ margin-left:5px;
+ width:650xp;
 }
 
 .nav ul{
