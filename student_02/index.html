@@ -1,4 +1,46 @@
 <html>
+  <style>
+  * {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.left {
+  width: 25%;
+}
+    
+.left h2 {
+	background-color: pink;
+}
+.right {
+	width: 75%;
+	border-left-style: inset;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+  
+  </head>
+<body>
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Jello persona yo wasap</p>
+  </div>
+  <div class="column right" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Anoher wassap I dunno wa else to se</p>
+  </div>
+</div>
 <head>
   <link rel - "stylesheet" type="text/css" href = "mystyle.css">
  </head>
