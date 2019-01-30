@@ -39,7 +39,38 @@
 Created by Me!
 
 </footer>
+  <style>
+* {
+  box-sizing: border-box;
+}
 
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+    
+.left h2 {
+	background-color: pink;
+}
+
+.right {
+	width: 75%;
+	border-left-style: inset;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 </body>
 
 </html>
