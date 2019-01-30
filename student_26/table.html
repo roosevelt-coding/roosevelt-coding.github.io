@@ -1,0 +1,39 @@
+<html>
+<head>
+  <style>
+
+.left {
+  width: 25%;
+}
+    
+.left h2 {
+	background-color: pink;
+}
+.right {
+	width: 75%;
+	border-left-style: inset;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+  
+  </head>
+<body>
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    <h2>Column Hi1</h2>
+    <p>Hi</p>
+  </div>
+  <div class="column right" style="background-color:#bbb;">
+    <h2>Column Hi2</h2>
+    <p>Hi</p>
+  </div>
+</div>
+
+</body>
+</html>
