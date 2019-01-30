@@ -2,3 +2,26 @@ font-family:arial;
  float:left;
  margin-left:10px;
  width:640px;
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.left {
+  width: 25%;
+}
+.right {
+  width: 75%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
