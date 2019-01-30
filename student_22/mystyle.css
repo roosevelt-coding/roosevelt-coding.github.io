@@ -1,4 +1,4 @@
-font-family:arial;
+font-family:sans-serif;
  float:left;
  margin-left:10px;
  width:640px;
@@ -10,7 +10,7 @@ font-family:arial;
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: 300px; 
 }
 .left {
   width: 25%;
