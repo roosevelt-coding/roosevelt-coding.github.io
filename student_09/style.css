@@ -8,6 +8,12 @@
  height:100px;
  float:left;
 }
+h2{
+ float:left;
+}
+p1{
+ float:right;
+}
 
 .header h1{
 Color:blue;
