@@ -22,7 +22,9 @@ Color:blue;
  margin-left:10px;
  width:640px;
 }
-
+h1{
+ text-align:center;
+}
 .nav ul{
  clear: both;
 }
