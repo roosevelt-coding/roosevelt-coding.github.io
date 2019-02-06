@@ -6,12 +6,12 @@
 .header img{
  width:99px;
  height:99px;
- float:right;
+ float:left;
 }
 
 .header h1{
  font-family:Comic Sans MS;
- float:left;
+ float:right;
  margin-left:11px;
  width:630px;
 }
