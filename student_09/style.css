@@ -8,13 +8,6 @@
  height:100px;
  float:left;
 }
-h2{
- float:left;
-}
-p{
- float:left;
- width:600px;
-}
 
 .header h1{
 Color:blue;
@@ -35,7 +28,6 @@ Color:blue;
  float:left;
  width:600px;
 }
-
 .nav li{
  list-style-type:none;
  display:inline-block;
