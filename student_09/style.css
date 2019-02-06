@@ -23,11 +23,17 @@ Color:blue;
  margin-left:10px;
  width:640px;
 }
-h1{
- text-align:center;
-}
+
 .nav ul{
  clear: both;
+}
+#picture{
+ float:left;
+ width:100px
+}
+#info{
+ float:right;
+ width:200px;
 }
 
 .nav li{
