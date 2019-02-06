@@ -32,8 +32,8 @@ Color:blue;
  width:100px
 }
 #info{
- float:right;
- width:200px;
+ float:left;
+ width:600px;
 }
 
 .nav li{
