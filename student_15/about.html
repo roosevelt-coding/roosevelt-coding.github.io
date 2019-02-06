@@ -28,6 +28,49 @@ This is my favorite video <a href= "http://www.youtube.com/watch?v=HCckoploKxg">
 <li>Sushi</li>
 </ol>
 <h3>My favorite video games of all time:</h3>
+    <style>
+* {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.left {
+  width: 25%;
+}
+    
+.left h2 {
+	background-color: pink;
+}
+.right {
+	width: 75%;
+	border-left-style: inset;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+  
+  </head>
+<body>
+
+<div class="row">
+  <div class="column left" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>https://img.buzzfeed.com/buzzfeed-static/static/2016-12/14/13/asset/buzzfeed-prod-fastlane01/sub-buzz-24232-1481739559-7.jpg</p>
+  </div>
+  <div class="column right" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Anoher wassap I dunno wa else to se</p>
+  </div>
+</div>
+
 <ul>
 <li>Fortnite</li>
 <li>Clash Royale</li>
