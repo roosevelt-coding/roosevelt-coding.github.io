@@ -21,6 +21,7 @@ Color:blue;
  clear: both;
 }
 #picture{
+ float:right;
  width:100px
 }
 #info{
