@@ -22,11 +22,11 @@ Color:blue;
 }
 #picture{
  float:left;
- width:60px
+ width:30%;
 }
 #info{
  float:right;
- width:1000px;
+ width:70%;
 }
 .nav li{
  list-style-type:none;
