@@ -21,12 +21,12 @@ Color:blue;
  clear: both;
 }
 #picture{
- float:right;
- width:100px
+ float:left;
+ width:60px
 }
 #info{
- float:left;
- width:600px;
+ float:right;
+ width:1000px;
 }
 .nav li{
  list-style-type:none;
